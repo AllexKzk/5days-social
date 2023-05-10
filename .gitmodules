@@ -1,0 +1,6 @@
+[submodule "mini-social-front-SYE"]
+	path = mini-social-front-SYE
+	url = https://github.com/AllexKzk/mini-social-front-SYE.git
+[submodule "mini-social-back-SYE"]
+	path = mini-social-back-SYE
+	url = https://github.com/AllexKzk/mini-social-back-SYE.git
